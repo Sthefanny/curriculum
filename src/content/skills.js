@@ -13,8 +13,8 @@ const skills = [
             { name: 'SQL Server', level: 3 },
             { name: 'ReactJS', level: 1 },
             { name: 'ReactNative', level: 2 },
-            { name: 'Flutter', level: 1 },
-            { name: 'Dart', level: 1 },
+            { name: 'Flutter', level: 3 },
+            { name: 'Dart', level: 3 },
         ]
     },
     {
@@ -31,8 +31,8 @@ const skills = [
             { name: 'SQL Server', level: 3 },
             { name: 'ReactJS', level: 1 },
             { name: 'ReactNative', level: 2 },
-            { name: 'Flutter', level: 1 },
-            { name: 'Dart', level: 1 },
+            { name: 'Flutter', level: 3 },
+            { name: 'Dart', level: 3 },
         ]
     }
 ];
